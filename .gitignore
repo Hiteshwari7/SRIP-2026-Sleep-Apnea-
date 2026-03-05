@@ -1,0 +1,7 @@
+Dataset/breathing_dataset.pkl
+Data/
+models/cnn_fold_1.keras
+models/cnn_fold_2.keras
+models/cnn_fold_3.keras
+models/cnn_fold_4.keras
+models/cnn_fold_5.keras
